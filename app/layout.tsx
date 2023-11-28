@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "浅纸提词器",
   description: "一款简单免费且好用的提词器小程序",
+  'baidu-site-verification': 'codeva-7EEJwyTQa8'
 };
 
 export default function RootLayout({
